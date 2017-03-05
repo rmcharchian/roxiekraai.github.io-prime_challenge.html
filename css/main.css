@@ -1,8 +1,8 @@
-div {
+div{
 border-radius: 5px;
 }
 
-#header {
+#header{
   z-index:1;
   position: fixed;
   width: 97.5%;
@@ -12,7 +12,7 @@ border-radius: 5px;
   margin-bottom: 10px;
 }
 
-#name {
+#name{
   float:left;
   margin-left: 5px;
   padding-top: 5px;
@@ -21,5 +21,22 @@ border-radius: 5px;
   color: #ffffff:
 }
 
+#email{
+  float:left;
+  margin-left: 5px;
+  padding-top: 5px;
+  font-size: 16px;
+  font-family: Verdana, sans-serif;
+  color: #ffffff:
+}
 
+h4{
+  margin-left: 5px;
+  margin-bottom: 15px;
+  font-family: Verdana, sans-serif;
+}
+
+
+    
+  
     
