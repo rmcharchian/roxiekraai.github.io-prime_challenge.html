@@ -8,3 +8,13 @@
   text-align: center;
   color: #ffffff:
 }
+
+#header {
+  position:relative;
+  height: 50px;
+  background-color: #668284;
+  clear: both;
+  font-size: 14px;
+  text-align: center;
+  color: #ffffff:
+}
