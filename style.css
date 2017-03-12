@@ -1,7 +1,7 @@
 
 #footer {
   position:relative;
-  height: 50px;
+  height: 60px;
   background-color: #668284;
   clear: both;
   font-size: 14px;
@@ -11,14 +11,10 @@
 
 #header {
   position:relative;
-  height: 50px;
+  height: 60px;
   background-color: #668284;
   clear: both;
   font-size: 14px;
   text-align: center;
   color: #ffffff:
-}
-
-.date {
-  float: right;
 }
