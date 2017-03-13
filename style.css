@@ -1,6 +1,7 @@
 
 #footer {
   position:relative;
+  border-radius: 5px;
   height: 60px;
   background-color: #668284;
   clear: both;
@@ -11,6 +12,7 @@
 
 #header {
   position:relative;
+  border-radius: 5px;
   height: 60px;
   background-color: #668284;
   clear: both;
