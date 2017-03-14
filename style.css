@@ -12,16 +12,16 @@
 
 .left {
   background-color: #cc7a00;
-  height: 170px;
+  height: 400px;
   width: 25%;
   float: left;
   border-radius: 5px;
 }
 
 .right {
-  background-color: #cc7a00;
-  height: 170px;
-  width: 70%;
+  background-color: #d2b48c;
+  height: 400px;
+  width: 75%;
   float: right;
   border-radius: 5px;
 }
