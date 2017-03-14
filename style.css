@@ -26,6 +26,21 @@
   border-radius: 5px;
 }
   
+.left2 {
+  background-color: #cc7a00;
+  height: 500px;
+  width: 25%;
+  float: left;
+  border-radius: 5px;
+}
+
+
+
+
+
+
+
+
 #footer {
   position:relative;
   border-radius: 5px;
