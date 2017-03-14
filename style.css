@@ -10,6 +10,20 @@
   color: #ffffff:
 }
 
+.left {
+  background-color: #cc7a00;
+  height: 170px;
+  width: 25%;
+  float: left;
+}
+
+.right {
+  background-color: #cc7a00;
+  height: 170px;
+  width: 70%;
+  float: right;
+}
+  
 #footer {
   position:relative;
   border-radius: 5px;
