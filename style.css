@@ -14,7 +14,7 @@
 .left {
   background-color: #cc7a00;
   height: 1400px;
-  width: 10%;
+  width: 5%;
   float: left;
   border-radius: 5px;
 }
@@ -22,7 +22,7 @@
 .right {
   background-color: #d2b48c;
   height: 1400px;
-  width: 90%;
+  width: 85%;
   float: right;
   border-radius;
   padding: 10px;
