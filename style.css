@@ -7,8 +7,7 @@
   clear: both;
   font-size: 20px;
   text-align: center;
-  color: #ffffff:
-  padding: 10px;
+  color: #ffffff;
 }
 
 .left {
@@ -24,7 +23,7 @@
   height: 1400px;
   width: 90%;
   float: right;
-  border-radius 5px;
+  border-radius: 5px;
   padding-left: 10px;
 }
 
@@ -37,6 +36,5 @@
   font-size: 20px;
   text-align: center;
   color: #ffffff:
-  padding: 20px;
 }
 
