@@ -14,7 +14,7 @@
 .left {
   background-color: #cc7a00;
   height: 1400px;
-  width: 5%;
+  width: 10%;
   float: left;
   border-radius: 5px;
 }
@@ -22,10 +22,10 @@
 .right {
   background-color: #d2b48c;
   height: 1400px;
-  width: 85%;
+  width: 90%;
   float: right;
-  border-radius;
-  padding: 10px;
+  border-radius 5px;
+  padding-left: 10px;
 }
 
 #footer {
