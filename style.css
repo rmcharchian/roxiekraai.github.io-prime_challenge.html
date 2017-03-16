@@ -12,7 +12,7 @@
 
 .left {
   background-color: #cc7a00;
-  height: 1400px;
+  height: 1500px;
   width: 10%;
   float: left;
   border-radius: 5px;
@@ -20,8 +20,8 @@
 
 .right {
   background-color: #d2b48c;
-  height: 1400px;
-  width: 88%;
+  height: 1500px;
+  width: 89%;
   float: right;
   border-radius: 5px;
   padding-left: 10px;
