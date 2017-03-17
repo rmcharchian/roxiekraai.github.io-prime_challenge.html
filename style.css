@@ -9,6 +9,7 @@
   text-align: center;
   color: #1b1b1c;
   padding-top: 1px;
+  width: 100%;
 }
 
 .right {
@@ -30,5 +31,6 @@
   text-align: center;
   color: #1b1b1c;
   padding-top: 2px;
+  width: 100%;
 }
 
