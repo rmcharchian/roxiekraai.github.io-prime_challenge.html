@@ -9,6 +9,8 @@
   color: #1b1b1c;
   padding-top: 1px;
   width: 100%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .right {
@@ -30,5 +32,7 @@
   color: #1b1b1c;
   padding-top: 1px;
   width: 100%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
