@@ -11,18 +11,10 @@
   padding-top: 1px;
 }
 
-.left {
-  background-color: #cc7a00;
-  height: 1500px;
-  width: 00px;
-  float: left;
-  border-radius: 5px;
-}
-
 .right {
   background-color: #d2b48c;
   height: 1500px;
-  width: 760px;
+  width: 1000px;
   float: right;
   border-radius: 5px;
   padding-left: 7px;
