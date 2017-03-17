@@ -1,6 +1,5 @@
 
 #header {
-  position:relative;
   border-radius: 5px;
   height: 80px;
   background-color: #668284;
@@ -26,7 +25,6 @@
 }
 
 #footer {
-  position:relative;
   border-radius: 5px;
   height: 120px;
   background-color: #668284;
@@ -36,7 +34,7 @@
   color: #1b1b1c;
   padding-top: 1px;
   width: 100%;
-   margin-right: 10px;
+  margin-right: 10px;
   margin-left: 10px;
 }
 
