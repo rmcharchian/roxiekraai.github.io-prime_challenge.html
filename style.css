@@ -9,6 +9,7 @@
   color: #1b1b1c;
   padding-top: 1px;
   width: 100%;
+  float: right;
 }
 
 .right {
@@ -30,4 +31,5 @@
   color: #1b1b1c;
   padding-top: 1px;
   width: 100%;
+  float: right;
 }
