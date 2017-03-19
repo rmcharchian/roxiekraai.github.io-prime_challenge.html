@@ -8,6 +8,7 @@
   padding: 7px;
   width: 94%;
   margin: 0 auto;
+  margin-bottom: 10px;
 }
 
 #body {
@@ -27,6 +28,7 @@
   color: #1b1b1c;
   padding: 7px;
   width: 94%;
+  margin-top: 10px;
 }
 
 #pic {
