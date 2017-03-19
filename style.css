@@ -13,10 +13,10 @@
 
 #body {
   background-color: #d2b48c;
-  height: 1600px;
-  width: 100%;
-  float: right;
+  width: 94%;
   border-radius: 5px;
+  margin: 0 auto;
+  padding: 7px;
 }
 
 #footer {
